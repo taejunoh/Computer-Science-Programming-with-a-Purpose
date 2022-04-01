@@ -18,3 +18,9 @@ End Date:
 
 Week 1
 Assignment URL: https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php
+
+Week 2
+Assignment URL: https://coursera.cs.princeton.edu/introcs/assignments/loops/specification.php
+
+Week 3
+Assignment URL: https://coursera.cs.princeton.edu/introcs/assignments/arrays/specification.php
